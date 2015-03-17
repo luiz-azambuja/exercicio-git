@@ -1,3 +1,5 @@
-#versionando codigo com git.
+﻿#versionando codigo com git.
 
 edição
+
+AÉ PRESTA ATENÇÃO !
